@@ -1,0 +1,134 @@
+blebleble                                                                      
+H                            5
+             RELA
+  9.454300  9.454300 15.325679 90.000000 90.000000120.000000
+      -1    0.50000000   0.00000000   0.00000000
+                3
+      -1    0.00000000   0.50000000   0.00000000
+      -1    0.50000000   0.50000000   0.00000000
+ NAMED ATOM: Fe1       Z changed to IATNR+999 to determine equivalency
+Fe1        NPT=  781  R0=0.00005000 RMT=    2.3500   Z: 26.0
+                     0.8660254 0.5000000 0.0000000
+                    -0.5000000 0.8660254 0.0000000
+                     0.0000000 0.0000000 1.0000000
+      -2    0.00000000   0.00000000   0.00000000
+                1
+ NAMED ATOM: Ge1       Z changed to IATNR+999 to determine equivalency
+Ge1        NPT=  781  R0=0.00005000 RMT=    2.2800   Z: 32.0
+                     1.0000000 0.0000000 0.0000000
+                     0.0000000 1.0000000 0.0000000
+                     0.0000000 0.0000000 1.0000000
+      -3    0.33333333   0.66666667   0.25000000
+                4
+      -3    0.66666667   0.33333333   0.25000000
+      -3    0.66666667   0.33333333   0.75000000
+      -3    0.33333333   0.66666667   0.75000000
+ NAMED ATOM: Ge2       Z changed to IATNR+999 to determine equivalency
+Ge2        NPT=  781  R0=0.00005000 RMT=    2.2800   Z: 32.0
+                     1.0000000 0.0000000 0.0000000
+                     0.0000000 1.0000000 0.0000000
+                     0.0000000 0.0000000 1.0000000
+      -4    0.00000000   0.00000000   0.50000000
+                1
+ NAMED ATOM: Ge3       Z changed to IATNR+999 to determine equivalency
+Ge3        NPT=  781  R0=0.00005000 RMT=    2.2800   Z: 32.0
+                     1.0000000 0.0000000 0.0000000
+                     0.0000000 1.0000000 0.0000000
+                     0.0000000 0.0000000 1.0000000
+      -5    0.50000000   0.00000000   0.50000000
+                3
+      -5    0.00000000   0.50000000   0.50000000
+      -5    0.50000000   0.50000000   0.50000000
+ NAMED ATOM: Fe2       Z changed to IATNR+999 to determine equivalency
+Fe2        NPT=  781  R0=0.00005000 RMT=    2.3500   Z: 26.0
+                     0.8660254 0.5000000 0.0000000
+                    -0.5000000 0.8660254 0.0000000
+                     0.0000000 0.0000000 1.0000000
+ Bravais Matrix:
+        0.86603        0.00000        0.00000
+       -0.50000        1.00000        0.00000
+        0.00000        0.00000        1.00000
+  
+ Bond-Valence Sums are calculated for current lattice parameters
+ and rescaled ones by 1 %. (You can put scaling into  .latcalib)
+
+ ATOM:  1  EQUIV.  1  Fe1        AT   0.50000   0.00000   0.00000
+ RMT(  1)=2.35000 AND RMT(  3)=2.28000
+ SUMS TO 4.63000  LT.  NN-DIST= 4.70409
+
+ ATOM:  1  EQUIV.  2  Fe1        AT   0.00000   0.50000   0.00000
+
+ ATOM:  1  EQUIV.  3  Fe1        AT   0.50000   0.50000   0.00000
+
+ ATOM:  2  EQUIV.  1  Ge1        AT   0.00000   0.00000   0.00000
+ RMT(  2)=2.28000 AND RMT(  1)=2.35000
+ SUMS TO 4.63000  LT.  NN-DIST= 4.72715
+
+ ATOM:  3  EQUIV.  1  Ge2        AT   0.33333   0.66667   0.25000
+ RMT(  3)=2.28000 AND RMT(  1)=2.35000
+ SUMS TO 4.63000  LT.  NN-DIST= 4.70409
+
+ ATOM:  3  EQUIV.  2  Ge2        AT   0.66667   0.33333   0.25000
+
+ ATOM:  3  EQUIV.  3  Ge2        AT   0.66667   0.33333   0.75000
+
+ ATOM:  3  EQUIV.  4  Ge2        AT   0.33333   0.66667   0.75000
+
+ ATOM:  4  EQUIV.  1  Ge3        AT   0.00000   0.00000   0.50000
+ RMT(  4)=2.28000 AND RMT(  5)=2.35000
+ SUMS TO 4.63000  LT.  NN-DIST= 4.72715
+
+ ATOM:  5  EQUIV.  1  Fe2        AT   0.50000   0.00000   0.50000
+ RMT(  5)=2.35000 AND RMT(  3)=2.28000
+ SUMS TO 4.63000  LT.  NN-DIST= 4.70409
+
+ ATOM:  5  EQUIV.  2  Fe2        AT   0.00000   0.50000   0.50000
+
+ ATOM:  5  EQUIV.  3  Fe2        AT   0.50000   0.50000   0.50000
+
+
+SHELL STRUCTURE for all ATOMS:
+ATOM  | DISTANCE   #of NEIGHBORS   Z |
+  1 | 4.704  41002.0| 4.727  41000.0| 4.727  21001.0| 7.663  21004.0| 8.174  81002.0|
+  2 | 4.704  41002.0| 4.727  41000.0| 4.727  21001.0| 7.663  21004.0| 8.174  81002.0|
+  3 | 4.704  41002.0| 4.727  41000.0| 4.727  21001.0| 7.663  21004.0| 8.174  81002.0|
+  4 | 4.727  61000.0| 6.669 121002.0| 7.663  21003.0| 8.188  61000.0|
+  5 | 4.704  31000.0| 4.704  31004.0| 5.458  31002.0| 6.669  31001.0| 6.669  31003.0| 7.663  21002.0|
+  6 | 4.704  31000.0| 4.704  31004.0| 5.458  31002.0| 6.669  31001.0| 6.669  31003.0| 7.663  21002.0|
+  7 | 4.704  31004.0| 4.704  31000.0| 5.458  31002.0| 6.669  31003.0| 6.669  31001.0| 7.663  21002.0|
+  8 | 4.704  31004.0| 4.704  31000.0| 5.458  31002.0| 6.669  31003.0| 6.669  31001.0| 7.663  21002.0|
+  9 | 4.727  61004.0| 6.669 121002.0| 7.663  21001.0| 8.188  61004.0|
+ 10 | 4.704  41002.0| 4.727  41004.0| 4.727  21003.0| 7.663  21000.0| 8.174  81002.0|
+ 11 | 4.704  41002.0| 4.727  41004.0| 4.727  21003.0| 7.663  21000.0| 8.174  81002.0|
+ 12 | 4.704  41002.0| 4.727  21003.0| 4.727  41004.0| 7.663  21000.0| 8.174  81002.0|
+ 
+
+LISTING of INDEX of all EQUIVALENT ATOMS:
+ 
+ ATOM:   1 and ATOM:   1 are equivalent
+ ATOM:   1 and ATOM:   2 are equivalent
+ ATOM:   1 and ATOM:   3 are equivalent
+ 
+ ATOM:   4 and ATOM:   4 are equivalent
+ 
+ ATOM:   5 and ATOM:   5 are equivalent
+ ATOM:   5 and ATOM:   6 are equivalent
+ ATOM:   5 and ATOM:   7 are equivalent
+ ATOM:   5 and ATOM:   8 are equivalent
+ 
+ ATOM:   9 and ATOM:   9 are equivalent
+ 
+ ATOM:  10 and ATOM:  10 are equivalent
+ ATOM:  10 and ATOM:  11 are equivalent
+ ATOM:  10 and ATOM:  12 are equivalent
+ 
+
+ ATOM KIND:   1  OLD and NEW MULTIPLICITY:     3   3
+
+ ATOM KIND:   2  OLD and NEW MULTIPLICITY:     1   1
+
+ ATOM KIND:   3  OLD and NEW MULTIPLICITY:     4   4
+
+ ATOM KIND:   4  OLD and NEW MULTIPLICITY:     1   1
+
+ ATOM KIND:   5  OLD and NEW MULTIPLICITY:     3   3

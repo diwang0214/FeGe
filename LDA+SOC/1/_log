@@ -1,0 +1,13 @@
+>   (init) options: 
+Mon Apr 17 15:30:07 CST 2023> (x_lapw) nn -f 1
+Mon Apr 17 15:30:07 CST 2023> (x) nn
+Mon Apr 17 15:30:10 CST 2023> (x) sgroup
+Mon Apr 17 15:30:11 CST 2023> (x) symmetry
+Mon Apr 17 15:30:17 CST 2023> (x) lstart
+Mon Apr 17 15:30:23 CST 2023> (x) kgen
+Mon Apr 17 15:30:27 CST 2023> (x) dstart -p
+Mon Apr 17 15:30:52 CST 2023> (x) dstart -up -p
+Mon Apr 17 15:30:58 CST 2023> (x) dstart -dn -p
+>   (initso) options: 
+Mon Apr 17 15:31:15 CST 2023> (x_lapw) symmetso
+Mon Apr 17 15:31:18 CST 2023> (x) kgen -d

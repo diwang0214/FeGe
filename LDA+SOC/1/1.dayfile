@@ -1,0 +1,15 @@
+
+
+    start 	(Mon Apr 17 15:30:06 CST 2023) 
+>   nn	(15:30:07) 
+>   sgroup	(15:30:10) 
+>   symmetry	(15:30:11) 
+>   lstart	(15:30:17) 
+>   inputfiles prepared	(15:30:23) 
+>   kgen	(15:30:23) 
+>   dstart  -p	(15:30:27) 
+>   dstart -up  -p	(15:30:52) 
+>   dstart -dn  -p	(15:30:58) init_lapw finished
+
+
+   stop
